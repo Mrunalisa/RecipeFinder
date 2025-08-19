@@ -32,8 +32,10 @@ A simple and interactive **multilingual recipe finder web application** that all
 ---
 
 ## 📷 Screenshots
-
-*(Add screenshots of your website here for better presentation)*
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/f142492f-1b9c-490c-82ec-2af8040e09ab" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/9f74bb1f-c853-4341-82c6-26551ccb513a" />
+<img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/cd5b189c-01b6-40f4-9bf9-d01c126f27ba" />
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/bc25bfae-a9ad-4fd8-9696-a4d02b7ffc97" />
 
 ---
 
