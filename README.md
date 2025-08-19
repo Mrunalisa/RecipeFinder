@@ -27,7 +27,7 @@ A simple and interactive **multilingual recipe finder web application** that all
 
 ## 🚀 Live Demo
 
-🔗 [Click Here to Try the App](https://mrunalisa.github.io/RecipeFinder/)
+🔗 [Click Here to Try the Website](https://mrunalisa.github.io/RecipeFinder/)
 
 ---
 
@@ -44,7 +44,7 @@ A simple and interactive **multilingual recipe finder web application** that all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/recipe-finder.git
+   git clone https://github.com/Mrunalisa/RecipeFinder.git
    ```
 2. Open the project folder.
 3. Run `index.html` in your browser.
